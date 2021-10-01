@@ -1,8 +1,11 @@
 name = "todos"
 type = "javascript"
 
-account_id = ""
+account_id = "5be98de62231a2edaeed0241a263059a"
 workers_dev = true
 route = ""
 zone_id = ""
 compatibility_date = "2021-10-01"
+kv_namespaces = [
+  {binding = "TODOS", preview_id = "ac8778afdbfb4bb9b990a439b0e682e5" }
+]
