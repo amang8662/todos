@@ -1,4 +1,4 @@
-# 👷 `worker-template` Hello World
+# 👷 `worker-template` ToDo List With Cloudflare KV
 
 A template for kick starting a Cloudflare worker project.
 
